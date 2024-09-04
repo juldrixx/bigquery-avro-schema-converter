@@ -9,7 +9,7 @@ import {
   debounce,
   Stack,
   ThemeProvider,
-  Typography
+  Typography,
 } from "@mui/material";
 import { useMemo, useState } from "react";
 import GitHubButton from "./component/GitHubButton";
