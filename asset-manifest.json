@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bigquery-avro-schema-converter/static/css/main.9acbf9a1.css",
-    "main.js": "/bigquery-avro-schema-converter/static/js/main.7fda78d4.js",
+    "main.js": "/bigquery-avro-schema-converter/static/js/main.b26213dc.js",
     "static/media/logo.png": "/bigquery-avro-schema-converter/static/media/logo.c7955cb5582b7f0763d0.png",
     "static/media/bigquery_to_avro.png": "/bigquery-avro-schema-converter/static/media/bigquery_to_avro.1e647e49385c8c78b1cf.png",
     "static/media/avro_to_bigquery.png": "/bigquery-avro-schema-converter/static/media/avro_to_bigquery.9d1e8416c27c0603ddeb.png",
@@ -63,10 +63,10 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/bigquery-avro-schema-converter/static/media/roboto-greek-ext-400-normal.16eb83b4a3b1ea994243.woff",
     "index.html": "/bigquery-avro-schema-converter/index.html",
     "main.9acbf9a1.css.map": "/bigquery-avro-schema-converter/static/css/main.9acbf9a1.css.map",
-    "main.7fda78d4.js.map": "/bigquery-avro-schema-converter/static/js/main.7fda78d4.js.map"
+    "main.b26213dc.js.map": "/bigquery-avro-schema-converter/static/js/main.b26213dc.js.map"
   },
   "entrypoints": [
     "static/css/main.9acbf9a1.css",
-    "static/js/main.7fda78d4.js"
+    "static/js/main.b26213dc.js"
   ]
 }
