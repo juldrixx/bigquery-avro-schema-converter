@@ -109,7 +109,7 @@ function App() {
               value={bigquery}
               error={bigQueryError}
             />
-            <Stack height="30em" justifyContent="center" alignItems="center">
+            <Stack height="100%" justifyContent="center" alignItems="center">
               <img
                 src={
                   focus === null

@@ -24,9 +24,10 @@ export default function JsonInput({
       <ReactCodeMirror
         style={{
           width: "100%",
+          height: "100%",
         }}
         width="100%"
-        height="30em"
+        height="100%"
         theme={theme.palette.mode === "dark" ? materialDark : materialLight}
         extensions={json()}
         basicSetup={{
