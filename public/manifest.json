@@ -1,6 +1,6 @@
 {
-  "short_name": "BQ <> Avro Converter",
-  "name": "BigQuery <> Avro Schema Converter",
+  "short_name": "BQ &lt;&gt; Avro Converter",
+  "name": "BigQuery &lt;&gt; Avro Schema Converter",
   "icons": [
     {
       "src": "favicon.ico",

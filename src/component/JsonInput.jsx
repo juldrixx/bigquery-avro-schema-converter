@@ -20,14 +20,13 @@ export default function JsonInput({
       gap={1}
       width="100%"
       height="100%"
-      overflow="hidden auto"
     >
       <ReactCodeMirror
         style={{
           width: "100%",
         }}
         width="100%"
-        height="500px"
+        height="30em"
         theme={theme.palette.mode === "dark" ? materialDark : materialLight}
         extensions={json()}
         basicSetup={{

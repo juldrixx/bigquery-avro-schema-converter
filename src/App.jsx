@@ -75,6 +75,7 @@ function App() {
         width="100%"
         height="100%"
         bgcolor={(theme) => theme.palette.background.paper}
+        overflow="hidden auto"
       >
         <ThemePicker />
         <Stack
@@ -82,7 +83,9 @@ function App() {
           gap={2}
           alignItems="center"
           justifyContent="space-between"
-          padding={2}
+          width="100%"
+          height="100%"
+          overflow="hidden auto"
         >
           <Typography variant="h1" fontWeight={700}>
             BigQuery &lt;&gt; Avro
@@ -96,6 +99,9 @@ function App() {
             justifyContent="space-between"
             gap={2}
             width="100%"
+            height="100%"
+            overflow="hidden auto"
+            padding={2}
           >
             <JsonInput
               onFocus={handleBigQueryFocus}
@@ -103,7 +109,7 @@ function App() {
               value={bigquery}
               error={bigQueryError}
             />
-            <Stack height="500px" justifyContent="center" alignItems="center">
+            <Stack height="30em" justifyContent="center" alignItems="center">
               <img
                 src={
                   focus === null
